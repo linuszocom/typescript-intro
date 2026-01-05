@@ -16,7 +16,7 @@ Först måste vi se till att du har Node.js installerat på din dator.
 
 Resultat: Om du får tillbaka versionsnummer (t.ex. v20.x.x) är du redo för nästa steg.
 
-Om du får felmeddelande: Gå till nodejs.org och ladda ner "LTS"-versionen. Installera den och starta om terminalen.
+Om du får felmeddelande: Gå till nodejs.org och ladda ner "LTS"-versionen. (Rekommenderar v22.x.x) Installera den och starta om terminalen.
 
 ## Steg 2: Skapa projektmapp och initiera npm
 Nu ska vi skapa mappen där din kod ska bo.
